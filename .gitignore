@@ -1,0 +1,15 @@
+# Rohdaten der USB-Messungen -- enthalten die Seriennummer der Konsole, nicht einchecken
+*.jsonl
+*.pcap
+*.pcapng
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
